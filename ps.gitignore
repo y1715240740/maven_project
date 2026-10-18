@@ -1,0 +1,19 @@
+# Maven 编译输出
+target/
+
+# IntelliJ IDEA 配置
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse 配置
+.classpath
+.project
+.settings/
+
+# macOS 系统文件
+.DS_Store
+
+# 日志文件
+*.log
